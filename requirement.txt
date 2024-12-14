@@ -1,0 +1,9 @@
+streamlit              
+pytesseract           
+Pillow               
+SpeechRecognition    
+langdetect           
+googletrans==3.1.0a0 
+scikit-learn        
+tensorflow           
+pandas              
